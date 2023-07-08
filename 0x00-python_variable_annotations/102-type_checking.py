@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Use  mypy to validate zoom_array function."""
+"""Use  mypy to validate zoom_array function."""
 from typing import List, Tuple
 
 
